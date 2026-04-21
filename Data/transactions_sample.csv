@@ -1,0 +1,51 @@
+tran_id,cust_id,tran_date,tran_amount,platform,product_category,payment_type
+1,705,01-01-2023,63,Flipkart,Electronics,Phonepe
+2,385,01-01-2023,99,Alibaba,Fashion & Apparel,Credit Card
+3,924,01-01-2023,471,Shopify,Sports,Phonepe
+4,797,01-01-2023,33,Shopify,Fashion & Apparel,Gpay
+5,482,01-01-2023,68,Amazon,Fashion & Apparel,Net Banking
+6,527,01-01-2023,38,Shopify,Fashion & Apparel,Debit Card
+7,388,01-01-2023,720,Alibaba,Electronics,Credit Card
+8,8,01-01-2023,140,Shopify,Kitchen Appliances,Gpay
+9,939,01-01-2023,144,Alibaba,Beauty & Personal Care,Phonepe
+10,228,01-01-2023,836,Ebay,Electronics,Gpay
+11,937,01-01-2023,517,Flipkart,Sports,Net Banking
+12,487,01-01-2023,340,Shopify,Kitchen Appliances,Credit Card
+13,440,01-01-2023,29,Amazon,Fashion & Apparel,Credit Card
+14,663,01-01-2023,457,Flipkart,Sports,Debit Card
+15,902,01-01-2023,289,Meesho,Kitchen Appliances,Gpay
+16,902,01-01-2023,46,Flipkart,Beauty & Personal Care,Net Banking
+17,321,01-01-2023,132,Amazon,Beauty & Personal Care,Gpay
+18,597,01-01-2023,435,Flipkart,Sports,Gpay
+19,704,01-01-2023,321,Meesho,Sports,Debit Card
+20,70,01-01-2023,945,Meesho,Electronics,Phonepe
+21,926,01-01-2023,22,Amazon,Beauty & Personal Care,Gpay
+22,176,01-01-2023,197,Flipkart,Kitchen Appliances,Net Banking
+23,591,01-01-2023,158,Alibaba,Garden & Outdoor,Net Banking
+24,74,01-01-2023,818,Flipkart,Electronics,Credit Card
+25,440,01-01-2023,259,Amazon,Kitchen Appliances,Gpay
+26,447,01-01-2023,34,Amazon,Books,Gpay
+27,380,01-01-2023,61963,Shopify,Beauty & Personal Care,Credit Card
+28,152,01-01-2023,170,Amazon,Beauty & Personal Care,Phonepe
+29,380,01-01-2023,12,Flipkart,Home Decor,Credit Card
+30,769,01-01-2023,329,Amazon,Sports,Phonepe
+31,910,01-01-2023,14,Flipkart,Fashion & Apparel,Gpay
+32,724,01-01-2023,571,Cred,Electronics,Phonepe
+33,645,01-01-2023,519,Alibaba,Electronics,Phonepe
+34,46,01-01-2023,393,Meesho,Electronics,Credit Card
+35,540,01-01-2023,5,Amazon,Kitchen Appliances,Cash
+36,52,01-01-2023,102,Meesho,Fashion & Apparel,Phonepe
+37,951,01-01-2023,336,Amazon,Sports,Net Banking
+38,969,01-01-2023,119,Alibaba,Kitchen Appliances,Phonepe
+39,224,01-01-2023,289,Amazon,Home Decor,Phonepe
+40,619,01-01-2023,167,Cred,Beauty & Personal Care,Debit Card
+41,222,01-01-2023,66,Flipkart,Sports,Credit Card
+42,3,01-01-2023,313,Cred,Kitchen Appliances,Phonepe
+43,875,01-01-2023,893,Amazon,Electronics,Debit Card
+44,301,01-01-2023,480,Flipkart,Sports,Credit Card
+45,47,01-01-2023,89,Amazon,Beauty & Personal Care,Credit Card
+46,822,01-01-2023,143,Cred,Beauty & Personal Care,Credit Card
+47,734,01-01-2023,20,Shopify,Books,Gpay
+48,985,01-01-2023,31,Amazon,Fashion & Apparel,Net Banking
+49,532,01-01-2023,974,Flipkart,Electronics,Debit Card
+50,287,01-01-2023,57869,Amazon,Toys & Games,Gpay
